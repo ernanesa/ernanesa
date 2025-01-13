@@ -3,7 +3,7 @@
 # Hi! I'm Ernane! 
 ## Let me present a little about myself :D
 
-Professional software developer since 2011
+Professional software developer since 2011, specializing in .NET C# since 2019
 
 Currently focused on .Net C#
 
