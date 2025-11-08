@@ -117,10 +117,9 @@ const ernane = {
 
 ## 💼 What I'm Currently Working On
 
-- 🔨 Building scalable microservices architectures
+<!-- - 🔨 Building scalable microservices architectures -->
 - 🚀 Improving CI/CD pipelines and deployment strategies
 - 📚 Studying advanced design patterns and system architecture
-- 🔄 Contributing to open-source projects
 - 🎯 Exploring new technologies in the .NET and Node.js ecosystems
 
 ---
