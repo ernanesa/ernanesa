@@ -24,7 +24,7 @@
 ```typescript
 const ernane = {
     role: "Backend Developer",
-    experience: "3+ years",
+    experience: "5+ years",
     location: "Brazil 🇧🇷",
     specialties: ["REST APIs", "Microservices", "System Integrations"],
     integrations: ["VTEX", "Salesforce"],
