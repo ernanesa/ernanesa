@@ -34,7 +34,7 @@ const ernane = {
 };
 ```
 
-🔹 **3+ years** of experience building robust backend systems  
+🔹 **5+ years** of experience building robust backend systems  
 🔹 Expert in **REST APIs** and **Microservices Architecture**  
 🔹 Strong advocate for **Clean Code** and **SOLID principles**  
 🔹 Experience with enterprise integrations (**VTEX**, **Salesforce**)  
