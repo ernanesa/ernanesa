@@ -48,7 +48,7 @@ I'm **open to remote international Backend Engineer / .NET Developer opportuniti
 
 **How I work:** API design · database-backed services · integrations · asynchronous processing · code reviews · production troubleshooting · Clean Architecture and DDD practices
 
-**Currently deepening:** AWS/Azure, observability, DevOps, distributed systems, and React/TypeScript. These are learning areas, not claims of senior-level expertise.
+**Currently deepening:** AWS/Azure, observability, DevOps, distributed systems, and React/TypeScript. I'm building more hands-on experience in these areas; .NET backend development remains my strongest focus.
 
 ## 🚀 Featured work
 
