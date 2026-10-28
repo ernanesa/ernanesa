@@ -1,139 +1,115 @@
 <div align="center">
-  
-# Hi, I'm Ernane Rezende de Sá! 👋
 
-### Backend Developer | .NET (C#) | Node.js | Microservices & APIs
+<img src="./assets/profile-banner.svg" alt="Ernane Rezende de Sá, Mid-Level Backend Engineer: C#/.NET, REST APIs and PostgreSQL" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Microservices+Architect;Clean+Code+Enthusiast;API+Integration" alt="Typing SVG" />
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernane-rezende-de-sa/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ernanesa)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ernane.sa@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5579998092510&text=Hello!)
+<a href="https://www.linkedin.com/in/ernane-rezende-de-sa/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ernane.sa@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-334155?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
+<a href="https://www.nuget.org/packages/MercadoBitcoin.Client"><img src="https://img.shields.io/badge/NuGet-My%20package-0B7285?style=flat-square&amp;logo=nuget&amp;logoColor=white" alt="NuGet package"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=ernanesa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+**Mid-level .NET backend developer · 5+ years of experience · Portuguese (native) · English C1 (EF SET 67/100)**
 
 </div>
 
 ---
 
----
+## 👋 A little about me
 
-## 👨‍💻 About Me
+I'm a **mid-level backend engineer based in Brazil**, with 5+ years of professional experience building APIs, services, and integrations. **C#/.NET is my main stack**, and I've also worked with **Node.js and TypeScript** in professional projects.
 
-```typescript
-const ernane = {
-    role: "Backend Developer",
-    experience: "5+ years",
-    location: "Brazil 🇧🇷",
-    specialties: ["REST APIs", "Microservices", "System Integrations"],
-    integrations: ["VTEX", "Salesforce"],
-    principles: ["Clean Code", "SOLID", "DDD"],
-    currentFocus: "Building scalable and maintainable solutions",
-    funFact: "I turn coffee ☕ into clean code!"
-};
-```
+I've contributed to systems in **insurance, fintech, e-commerce, and financial automation**. I enjoy the practical side of backend work: understanding the problem, making APIs and data flows predictable, troubleshooting issues, and leaving code that the next developer can maintain.
 
-🔹 **5+ years** of experience building robust backend systems  
-🔹 Expert in **REST APIs** and **Microservices Architecture**  
-🔹 Strong advocate for **Clean Code** and **SOLID principles**  
-🔹 Experience with enterprise integrations (**VTEX**, **Salesforce**)  
-🔹 Passionate about **Domain-Driven Design (DDD)**  
-🔹 Proficient in **.NET (C#)** and **Node.js (TypeScript)** ecosystems
+I'm **open to remote international Backend Engineer / .NET Developer opportunities**, full-time or contract. I'm looking to contribute as a **mid-level engineer** while continuing to grow with a collaborative team.
 
----
-
----
-
-## 🛠️ My Tech Stack
-
-### Languages & Frameworks
-
-<p align="center">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
-
-### Architecture & Tools
-
-<p align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC">
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
-<img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge" alt="REST APIs">
-<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge" alt="Microservices">
-</p>
-
-### Databases
-
-<p align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-</p>
-
-### DevOps, Testing & Monitoring
-
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/CI/CD-333333?style=for-the-badge" alt="CI/CD">
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ernanesa&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📊 GitHub Statistics
+## 🧰 My toolkit
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ernanesa&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ernanesa&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernanesa&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+**My main focus**
+
+<img src="https://img.shields.io/badge/C%23-334155?style=flat-square&amp;logo=csharp&amp;logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-334155?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="ASP.NET Core"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0B7285?style=flat-square" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/EF%20Core-334155?style=flat-square" alt="Entity Framework Core"/>
+
+**Also used in professional projects**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/gRPC-334155?style=flat-square" alt="gRPC"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&amp;logo=rabbitmq&amp;logoColor=white" alt="RabbitMQ"/>
+<img src="https://img.shields.io/badge/SQL%20Server-334155?style=flat-square" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker"/>
 
 </div>
 
-<!-- --- -->
+**How I work:** API design · database-backed services · integrations · asynchronous processing · code reviews · production troubleshooting · Clean Architecture and DDD practices
 
-<!-- ## 📈 Contribution Graph
+**Currently deepening:** AWS/Azure, observability, DevOps, distributed systems, and React/TypeScript. I'm building more hands-on experience in these areas; .NET backend development remains my strongest focus.
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ernanesa&theme=redical&hide_border=true&area=true" alt="Contribution Graph" />
-</p> -->
+## 🚀 Featured work
 
----
+These are public projects you can explore. They show different parts of my backend journey, from external API integration to testing and application design.
 
-## 💼 What I'm Currently Working On
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔌 <a href="https://github.com/ernanesa/MercadoBitcoin.Client">MercadoBitcoin.Client</a></h3>
+      <p><code>.NET</code> <code>C#</code> <code>API integration</code></p>
+      <p>A typed .NET library for Mercado Bitcoin API v4, including asynchronous endpoints, resilience features, and WebSocket streaming.</p>
+      <p><a href="https://www.nuget.org/packages/MercadoBitcoin.Client">View on NuGet ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🦟 <a href="https://github.com/ernanesa/denguewatch">DengueWatch</a></h3>
+      <p><code>.NET 10</code> <code>MongoDB</code> <code>Docker</code></p>
+      <p>An educational REST API for geolocated dengue case reports, with GeoJSON, JWT authentication, and containerized setup.</p>
+      <p><a href="https://github.com/ernanesa/denguewatch">Explore the API ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 <a href="https://github.com/ernanesa/CardBrandValidator">CardBrandValidator</a></h3>
+      <p><code>.NET 10</code> <code>xUnit</code> <code>REST + CLI</code></p>
+      <p>Card-brand identification and Luhn validation, built as a bootcamp project with a reusable core and automated tests.</p>
+      <p><a href="https://github.com/ernanesa/CardBrandValidator">See the tests and code ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏦 <a href="https://github.com/ernanesa/desafio01-ts">Dio Bank</a></h3>
+      <p><code>TypeScript</code> <code>OOP</code> <code>Vitest</code></p>
+      <p>A learning project that models banking accounts and operations with object-oriented concepts and unit tests.</p>
+      <p><a href="https://github.com/ernanesa/desafio01-ts">Explore the repository ↗</a></p>
+    </td>
+  </tr>
+</table>
 
-<!-- - 🔨 Building scalable microservices architectures -->
-- 🚀 Improving CI/CD pipelines and deployment strategies
-- 📚 Studying advanced design patterns and system architecture
-- 🎯 Exploring new technologies in the .NET and Node.js ecosystems
+## 💼 Experience behind the projects
+
+| Company | What I worked on |
+| :--- | :--- |
+| **Claps** · 2025–present | C#/.NET services, insurance workflows, gRPC, PostgreSQL, and partner integrations. |
+| **Oba Hortifruti** · 2024 | .NET and Node.js integrations with VTEX, Salesforce, and internal systems. |
+| **Itera** · 2022–2024 | .NET services, RabbitMQ, and workflows for financial automation. |
+| **Warren Brasil** · 2021–2022 | Node.js/TypeScript APIs for a digital investment platform. |
+| **ma9** · 2020–2021 | .NET backend services for financial and insurance systems. |
+
+For full role descriptions and dates, visit my [LinkedIn profile](https://www.linkedin.com/in/ernane-rezende-de-sa/).
 
 ---
 
 <div align="center">
-  
-### 💬 Let's Connect!
 
-**I'm always open to interesting conversations and collaboration opportunities!**
+### 🤝 Let's build something useful
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernane-rezende-de-sa/)
+**Open to international remote opportunities as a Mid-Level Backend Engineer / .NET Developer.**
 
----
+I'm happy to talk about backend engineering, integrations, and potential roles with international teams.
 
-**⭐ If you like my work, consider giving a star to my repositories!**
+<a href="https://www.linkedin.com/in/ernane-rezende-de-sa/"><img src="https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="mailto:ernane.sa@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20email-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send an email"/></a>
+
+<sub>Learning, building, improving. One backend problem at a time.</sub>
 
 </div>
